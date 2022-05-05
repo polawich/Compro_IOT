@@ -11,7 +11,7 @@
 ## องค์ประกอบในส่วนต่างๆ
 
  - [Poster 📜](https://github.com/polawich/Compro_IOT/tree/main/POSTER)
- - [Video 📽️](https://github.com/matiassingers/awesome-readme)
+ - [Video 📽️](https://www.youtube.com/watch?v=FzFw8zSZ1-I)
  - [Dialogflow 🌞](https://github.com/polawich/Compro_IOT/tree/main/dialogflow)
  - [iot-lighting 💫](https://github.com/polawich/Compro_IOT/tree/main/iot-lighting)
  - [mqtt-broker/mqtt 🎟️](https://github.com/polawich/Compro_IOT/tree/main/mqtt-broker/mqtt)
